@@ -1,0 +1,2 @@
+hello worldFILE. DO NOT EDIT
+This will be output to the file named dup.txt
